@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(125, 122, 188);
+}
+.titleLabel {
+	font-family: sans-serif;
+	font-size: 65px;
+	text-align: center;
+}
+.scoreStyle{
+	text-align: center;
+	display: none;
+}
